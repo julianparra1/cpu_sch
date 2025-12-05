@@ -1,4 +1,4 @@
-# 🖥️ Simulador Visual de Algoritmos de Calendarización de Procesos
+# Simulador Visual de Algoritmos de Calendarización de Procesos
 
 ## Proyecto Final - Sistemas Operativos
 
